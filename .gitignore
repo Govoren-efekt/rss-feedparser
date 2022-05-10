@@ -169,3 +169,4 @@ gunicorn.conf.py
 static/
 users.db
 wsgi.py
+*.sql
